@@ -1,0 +1,27 @@
+kabupaten bogor
+kabupaten sukabumi
+kabupaten cianjur
+kabupaten bandung
+kabupaten garut
+kabupaten tasikmalaya
+kabupaten ciamis
+kabupaten kuningan
+kabupaten cirebon
+kabupaten majalengka
+kabupaten sumedang
+kabupaten indramayu
+kabupaten subang
+kabupaten purwakarta
+kabupaten karawang
+kabupaten bekasi
+kabupaten bandung barat
+kota bogor
+kota sukabumi
+kota bandung
+kota cirebon
+kota bekasi
+kota depok
+kota cimahi
+kota tasikmalaya
+kota banjar
+kabupaten pangandaran
